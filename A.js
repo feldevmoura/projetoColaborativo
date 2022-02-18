@@ -1,1 +1,1 @@
-const variavel = {nome:"Bruno", cidade:"Santo André"}
+const variavel = {nome:"Steven Anderson", cidade:"Campos dos Goytacazes, RJ"}
