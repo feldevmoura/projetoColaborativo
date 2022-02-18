@@ -1,0 +1,1 @@
+const frase = "Steven Anderson, Campos dos Goytacazes, Rj."
