@@ -1,0 +1,1 @@
+const frase = "Bruno Beo - Santo André/SP"
